@@ -1,0 +1,3 @@
+# buek
+
+Egy két levél, információ hazánk jogrendszeréről, pl. a Budapesti Ügyvédi Kamara (innen a buek név a repo-nak) etikájáról. Tisztelet a kivételes embernek, sőt... maradó ügyvédeknek......
